@@ -10,4 +10,6 @@ Items Attatched:
 
 -R Markdown of my results when the code is executed
 
+-Bibliography of sources used for research
+
 -Powerpoint of the research presented to class
