@@ -6,10 +6,10 @@ Items Attatched:
 
 -PDF document containing the Final Project requirements
 
+-Bibliography of sources used for research
+
 -Final Project R code with all my work
 
 -R Markdown of my results when the code is executed
-
--Bibliography of sources used for research
 
 -Powerpoint of the research presented to class
